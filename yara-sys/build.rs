@@ -400,6 +400,7 @@ mod bindings {
             .allowlist_function("yr_rule_.*")
             .allowlist_function("yr_rules_.*")
             .allowlist_function("yr_scanner_.*")
+            .allowlist_function("yr_object_.*")
             .allowlist_type("YR_MATCH")
             .allowlist_type("YR_META")
             .allowlist_type("YR_OBJECT")
